@@ -1,0 +1,6 @@
+gk	0
+gk	0
+gk	12
+gk	8
+dk	0
+dk	2
